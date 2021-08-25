@@ -1,0 +1,20 @@
+@font-face{
+	font-family: font1;
+	src:url("font_cont.woff");
+}	
+
+@font-face{
+	font-family: font2;
+	src:url("font2.woff");
+}
+
+@font-face{
+	font-family: font3;
+	src:url("font3.woff");
+
+}
+
+@font-face{
+	font-family: font4;
+	src: url("font4.woff");
+}
